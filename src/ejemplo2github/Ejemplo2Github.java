@@ -18,6 +18,7 @@ public class Ejemplo2Github {
         // TODO code application logic here
         System.out.println("Hola"
                 + "Richi");
+        System.out.println("Listo");
     }
     
 }

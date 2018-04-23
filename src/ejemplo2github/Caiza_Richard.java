@@ -10,5 +10,5 @@ package ejemplo2github;
  * @author FamiliaCaizaCali
  */
 public class Caiza_Richard {
-    
+    System.out.println("Caiza Richard");
 }

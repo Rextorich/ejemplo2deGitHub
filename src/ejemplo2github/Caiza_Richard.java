@@ -12,5 +12,6 @@ package ejemplo2github;
 public class Caiza_Richard {
     public static void main(String[] args) {
     System.out.println("Caiza Richard");
+        System.out.println("Christian");
     }
 }
